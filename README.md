@@ -31,6 +31,6 @@ Required:
 
 Walkthrough
 
-<img src="http://i.imgur.com/SxGeAj0.gif" title="source: imgur.com" />
+<img src="http://i.imgur.com/r5udcgF.gif" title="source: imgur.com" />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
