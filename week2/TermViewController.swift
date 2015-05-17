@@ -10,9 +10,14 @@ import UIKit
 
 class TermViewController: UIViewController {
 
+    @IBOutlet weak var webView: UIWebView!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        let url = NSURL (string: "https://www.dropbox.com/terms?mobile=1")
+        let requestObj = NSURLRequest(URL: url!)
+        webView.loadRequest(requestObj)
         // Do any additional setup after loading the view.
     }
 
